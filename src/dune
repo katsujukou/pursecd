@@ -1,0 +1,4 @@
+(library
+ (name pursecd)
+ (package pursecd)
+ (libraries yojson pursecd_purescript))

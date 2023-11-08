@@ -1,0 +1,4 @@
+(executable
+ (name pursecd)
+ (public_name pursecd)
+ (libraries pursecd))
